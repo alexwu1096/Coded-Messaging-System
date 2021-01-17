@@ -1,0 +1,52 @@
+﻿  main.c
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\message.h(32,2): warning C4091: 'typedef ': ignored on left of 'quoteData' when no variable is declared
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\protocol.h(19,18): warning C4142: 'BYTE': benign redefinition of type
+E:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(158): message : see declaration of 'BYTE'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(91,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(200,80): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[140]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(200,68): warning C4024: 'getMessageFromFile': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(196,7): warning C4101: 'msg': unreferenced local variable
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(231,24): warning C4553: '==': result of expression not used; did you intend '='?
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(241,41): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(241,33): warning C4024: 'rleEncode': different types for formal and actual parameter 3
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(241,50): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(241,43): warning C4024: 'rleEncode': different types for formal and actual parameter 4
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(241,57): warning C4305: 'function': truncation from 'int' to 'char'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(243,33): warning C4013: 'encryptDecrypt' undefined; assuming extern returning int
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(243,47): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(243,33): warning C4024: 'strcpy': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(245,39): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[140]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(245,35): warning C4024: 'strlen': different types for formal and actual parameter 1
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(253,37): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'char (*)[140]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(253,33): warning C4024: 'Huffman_Compress': different types for formal and actual parameter 1
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(253,47): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'char (*)[1000]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(253,39): warning C4024: 'Huffman_Compress': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(279,12): warning C4098: 'txTxtMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(328,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(331,46): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10000]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(331,38): warning C4024: 'rleDecode': different types for formal and actual parameter 3
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(331,62): warning C4305: 'function': truncation from 'int' to 'char'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(333,36): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[10000]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(333,28): warning C4024: 'strcpy': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(335,33): warning C4047: 'function': 'queue' differs in levels of indirection from 'queue *'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(335,24): warning C4024: 'addToQueue': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(340,44): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'char (*)[10000]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(340,36): warning C4024: 'Huffman_Uncompress': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(351,33): warning C4047: 'function': 'queue' differs in levels of indirection from 'queue *'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(351,24): warning C4024: 'addToQueue': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(358,13): warning C4098: 'rxTxtMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(370,12): warning C4098: 'rxTxtMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(405,41): warning C4133: 'function': incompatible types - from 'short [0]' to 'unsigned char *'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(420,14): warning C4098: 'rxAudMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(431,13): warning C4098: 'rxAudMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(454,11): warning C4098: 'rxAudMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(399,8): warning C4101: 'replay': unreferenced local variable
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(622,12): warning C4098: 'settingsMenu': 'void' function returning a value
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(663,82): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[140]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(663,70): warning C4024: 'getMessageFromFile': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(679,83): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[140]'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(679,71): warning C4024: 'getMessageFromFile': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(701,32): warning C4047: 'function': 'queue' differs in levels of indirection from 'messageList *'
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(701,23): warning C4024: 'addToQueue': different types for formal and actual parameter 2
+E:\Github Repo\CMS\Coded-Messaging-System\Coded-Messaging-System\main.c(724,12): warning C4098: 'diagMenu': 'void' function returning a value
+  Coded-Messaging-System.vcxproj -> E:\Github Repo\CMS\Coded-Messaging-System\Debug\Coded-Messaging-System.exe
